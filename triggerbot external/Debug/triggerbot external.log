@@ -1,0 +1,17 @@
+﻿  triggerbot external.cpp
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(61,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(62,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(63,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(66,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(83,136): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(220,76): warning C4305: 'argument': truncation from 'double' to 'val'
+          with
+          [
+              val=float
+          ]
+C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\triggerbot external\triggerbot external.cpp(228,76): warning C4305: 'argument': truncation from 'double' to 'val'
+          with
+          [
+              val=float
+          ]
+  triggerbot external.vcxproj -> C:\Users\holmk\Desktop\hackerman\CSGO\triggerbot external\Debug\triggerbot external.exe
